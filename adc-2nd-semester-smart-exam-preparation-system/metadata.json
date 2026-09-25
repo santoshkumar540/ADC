@@ -1,0 +1,6 @@
+{
+  "name": "ADC 2nd Semester Smart Exam Preparation System",
+  "description": "Comprehensive ADC 2nd Semester exam preparation platform with syllabus explorer, bilingual English-Urdu terminology, 5-option MCQ engine, timed 60-question mocks, mistake revision, and smart progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
